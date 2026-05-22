@@ -8,3 +8,4 @@ playing cricket
   --john edited
 - cooking 
 - Chess
+- Games
