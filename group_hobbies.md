@@ -6,3 +6,5 @@ playing cricket
 - Playing carrom
 - cooking
   --john edited
+- cooking 
+- Chess
